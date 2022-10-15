@@ -1,4 +1,35 @@
 【Java と C++ の違い】
-
+・利用分野
+　javaはWEBサービスやアプリケーション開発に向いている。（大規模なシステムや基幹システム、WEBアプリなど）
+  C++はく組み込みシステムに向いている。（コンピューターやOS、家電などに使われる組み込みシステム）
+・互換性
+　javaは互換性がないがC++はある。
+ 
+ 【Java と JavaScript の違い】
+ ・利用分野
+ 　Javaは業務システムやアプリなど開発。
+   javaScriptはWebブラウザ上で色を変えたり、動きをつけたりするWebサービスを作る分野。
+ ・文法
+ 　Java　→　静的型付
+   javaScript　→　動的型付
+   
+ 【Java と Python の違い】
+ ・利用分野
+ 　Javaは業務システムやアプリなど開発。
+   pythonはAIや機械学習の分野で
+ ・難易度
+ 　Javaのほうが高難易度。
+  例　Hello world の文字列を表示
+  
+  Python　→　print('Hello world')
+  
+  java  →　　public class HelloWorld{
+                public static void main(String[]args){
+                System.out.println("Hello world");
+               }
+             }
+  
+  
+   
 
 
